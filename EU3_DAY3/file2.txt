@@ -1,0 +1,2 @@
+THIS IS MY FILE 2
+About to be staged and committed
