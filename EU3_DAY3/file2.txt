@@ -1,2 +1,9 @@
 THIS IS MY FILE 2
 About to be staged and committed
+
+
+Added more stuff of my own
+CHANGES CHANGES CHANGES
+This is not my remote repo but I want to push
+But I do not have access?
+Easiest solution?FORK IT
